@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasukip20
 - 👀 I’m interested in learning new things & new technology
-- 🌱 I’m currently learning to crack my placement offers
+- 🌱 I’m currently learning Linux Kernel
 - 💞️ I’m looking to collaborate with anyone who vibe the same
 - 📫 How to reach me wisdomvasuki@gmail.com
 
